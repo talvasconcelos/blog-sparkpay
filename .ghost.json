@@ -4,7 +4,7 @@
     "contentApiKey": "5f9823d3db71fadae6c3d7772c"
   },
   "production": {
-    "apiUrl": "https://ghost.serveo.net",
+    "apiUrl": "https://sparkpay.serveo.net",
     "contentApiKey": "5f9823d3db71fadae6c3d7772c"
   }
 }
