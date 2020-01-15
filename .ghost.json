@@ -4,7 +4,9 @@
     "contentApiKey": "5f9823d3db71fadae6c3d7772c"
   },
   "production": {
-    "apiUrl": "https://sparkpay.serveo.net",
-    "contentApiKey": "5f9823d3db71fadae6c3d7772c"
+    "apiUrl": "https://d46ea45a.ngrok.io",
+    "contentApiKey": "5f9823d3db71fadae6c3d7772c",
+    "comment": "ssh -R sparkpay:80:localhost:2368 serveo.net",
+    "comment2": ""
   }
 }
