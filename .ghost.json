@@ -1,11 +1,11 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "5f9823d3db71fadae6c3d7772c"
+    "apiUrl": "https://blogsparkpay.herokuapp.com",
+    "contentApiKey": "516517faa4a05169d8ac6fa63d"
   },
   "production": {
-    "apiUrl": "https://d46ea45a.ngrok.io",
-    "contentApiKey": "5f9823d3db71fadae6c3d7772c",
+    "apiUrl": "https://blogsparkpay.herokuapp.com",
+    "contentApiKey": "516517faa4a05169d8ac6fa63d",
     "comment": "ssh -R sparkpay:80:localhost:2368 serveo.net",
     "comment2": "ngrok http 2368"
   }
