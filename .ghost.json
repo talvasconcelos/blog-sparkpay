@@ -7,6 +7,6 @@
     "apiUrl": "https://d46ea45a.ngrok.io",
     "contentApiKey": "5f9823d3db71fadae6c3d7772c",
     "comment": "ssh -R sparkpay:80:localhost:2368 serveo.net",
-    "comment2": ""
+    "comment2": "ngrok http 2368"
   }
 }
